@@ -64,8 +64,8 @@ Algoritmo Exercise_10
 	
 	// Intercambio directo
     derecha = derecha + izquierda
-    izquierda <- derecha - izquierda
-    derecha <- derecha - izquierda
+    izquierda = derecha - izquierda
+    derecha = derecha - izquierda
 	
 	Escribir "--Presione una tecla para continuar la historia!--"
 	Esperar Tecla
